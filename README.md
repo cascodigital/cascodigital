@@ -1,6 +1,6 @@
 # Casco Digital
 
-Microsoft 365 and infrastructure engineer behind Casco Digital, a managed IT services company in Porto Alegre, Brazil, running since 2012. This account holds the tools I built for that work: PowerShell for Microsoft 365 and Exchange Online, security reporting for small-business clients, and self-hosted automation.
+Microsoft 365 and infrastructure engineer working in IT since 2012, based in Porto Alegre, Brazil. Casco Digital, founded in 2025, is my managed IT services company. This account holds the tools I built for that work: PowerShell for Microsoft 365 and Exchange Online, security reporting for small-business clients, and self-hosted automation.
 
 [cascodigital.com.br](https://cascodigital.com.br)
 
