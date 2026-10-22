@@ -17,7 +17,6 @@ Senior MSP consultant (14 years) in Porto Alegre, Brazil. Microsoft 365, Entra I
 | [m365-admin-toolkit](https://github.com/cascodigital/m365-admin-toolkit) | PowerShell toolkit for Microsoft 365 administration, auditing and security |
 | [m365-report](https://github.com/cascodigital/m365-report) | Monthly health and security reports for MSP clients |
 | [the-guardian](https://github.com/cascodigital/the-guardian) | Public SPF, DMARC and MX audit on Cloudflare Workers, live at [cascodigital.com.br/diagnostico](https://cascodigital.com.br/diagnostico) |
-| [linux-server-scripts](https://github.com/cascodigital/linux-server-scripts) | Provisioning, Docker backup, rclone and maintenance scripts |
 
 ## Self-hosted and AI tooling
 
